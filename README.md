@@ -6,9 +6,9 @@
 
 Guayaquil, Ecuador 🇪🇨
 
-![Focus](https://img.shields.io/badge/focus-authentication%20libraries-0d1117?style=flat-square)
-![Disclosure](https://img.shields.io/badge/disclosure-coordinated-0d1117?style=flat-square)
-![Labs](https://img.shields.io/badge/testing-isolated%20labs%20only-0d1117?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-authentication%20libraries-1f6feb?style=flat-square)
+![Disclosure](https://img.shields.io/badge/disclosure-coordinated-238636?style=flat-square)
+![Labs](https://img.shields.io/badge/testing-isolated%20labs%20only-8957e5?style=flat-square)
 
 </div>
 
