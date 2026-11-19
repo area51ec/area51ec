@@ -43,6 +43,7 @@ and how they come together in smart cities.
 | Band | On my radar |
 | :---: | :---: |
 | Auth & AppSec | ![JWT](https://img.shields.io/badge/JWT-04110D?style=flat-square&logo=jsonwebtokens&logoColor=3DDC97) ![OAuth2](https://img.shields.io/badge/OAuth2-0B2A22?style=flat-square&logo=auth0&logoColor=3DDC97) ![Node.js](https://img.shields.io/badge/Node.js-134E3F?style=flat-square&logo=nodedotjs&logoColor=C8F5E1) |
+| Web | ![HTML5](https://img.shields.io/badge/HTML5-04110D?style=flat-square&logo=html5&logoColor=3DDC97) ![CSS3](https://img.shields.io/badge/CSS3-0B2A22?style=flat-square&logo=css&logoColor=3DDC97) ![JavaScript](https://img.shields.io/badge/JavaScript-134E3F?style=flat-square&logo=javascript&logoColor=C8F5E1) ![PHP](https://img.shields.io/badge/PHP-04110D?style=flat-square&logo=php&logoColor=3DDC97) ![Laravel](https://img.shields.io/badge/Laravel-0B2A22?style=flat-square&logo=laravel&logoColor=3DDC97) ![Vue](https://img.shields.io/badge/Vue-134E3F?style=flat-square&logo=vuedotjs&logoColor=C8F5E1) |
 | Offensive tooling | ![Metasploit](https://img.shields.io/badge/Metasploit-04110D?style=flat-square&logo=metasploit&logoColor=3DDC97) ![Nmap](https://img.shields.io/badge/Nmap-0B2A22?style=flat-square&logo=gnubash&logoColor=3DDC97) ![Wireshark](https://img.shields.io/badge/Wireshark-134E3F?style=flat-square&logo=wireshark&logoColor=C8F5E1) |
 | Wireless | ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-04110D?style=flat-square&logo=wifi&logoColor=3DDC97) ![Bluetooth](https://img.shields.io/badge/Bluetooth%20%2F%20BLE-0B2A22?style=flat-square&logo=bluetooth&logoColor=3DDC97) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-134E3F?style=flat-square&logo=gnometerminal&logoColor=C8F5E1) |
 | Networking & telecom | ![MikroTik](https://img.shields.io/badge/MikroTik-04110D?style=flat-square&logo=mikrotik&logoColor=3DDC97) ![Cisco](https://img.shields.io/badge/Cisco-0B2A22?style=flat-square&logo=cisco&logoColor=3DDC97) ![Mobile](https://img.shields.io/badge/3G%20%2F%204G%20%2F%205G-134E3F?style=flat-square&logo=5g&logoColor=C8F5E1) |
@@ -101,7 +102,7 @@ and how they come together in smart cities.
 
 | Project | Signal |
 | :---: | :---: |
-| Voice assistant for hotels | ESP32 wake word → Whisper → Rasa → Coqui TTS, with door and motion sensors |
+| Voice assistant for hotels | Embedded voice device with sensors |
 | Smart traffic lights (smart city) | Adapt to traffic, weather and emergency routes |
 | Electronic invoicing | Direct integration with Ecuador's tax authority (SRI) |
 
@@ -115,7 +116,7 @@ and how they come together in smart cities.
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=nodejs,ts,php,laravel,vue,py,docker,postgres,linux,bash,git&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,laravel,vue,py,docker,postgres,linux,bash,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
