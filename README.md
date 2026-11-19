@@ -1,89 +1,137 @@
+<!-- markdownlint-disable MD033 -->
+
 <div align="center">
 
-# Joseph Páez · Area51
+![Header](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:04110D,40:0B2A22,75:134E3F,100:1F7A62&text=Area51%20%C2%B7%20Security%20Research&fontColor=C8F5E1&fontSize=38&fontAlignY=42&desc=Auth%20Libraries%20%E2%80%A2%20Telecom%20%26%20Wireless%20%E2%80%A2%20IoT&descAlignY=66&animation=fadeIn)
 
-**Security researcher · Telecom & wireless · IoT · Networking**
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=2000&color=3DDC97&center=true&vCenter=true&width=640&height=40&lines=Breaking+auth+libraries+in+isolated+labs;Coordinated+disclosure+with+maintainers;Wi-Fi+%E2%80%A2+BLE+%E2%80%A2+IoT+%E2%80%A2+3G%2F4G%2F5G;Curious+about+how+things+fail)
 
-Guayaquil, Ecuador 🇪🇨
-
-![Focus](https://img.shields.io/badge/focus-authentication%20libraries-1f6feb?style=flat-square)
-![Disclosure](https://img.shields.io/badge/disclosure-coordinated-238636?style=flat-square)
-![Labs](https://img.shields.io/badge/testing-isolated%20labs%20only-8957e5?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-info@area51.ec-0B2A22?style=flat-square&logo=gmail&logoColor=3DDC97)](mailto:info@area51.ec)
+![Location](https://img.shields.io/badge/Guayaquil-Ecuador-134E3F?style=flat-square&logo=googlemaps&logoColor=C8F5E1)
+![Disclosure](https://img.shields.io/badge/Disclosure-Coordinated-1F7A62?style=flat-square&logo=letsencrypt&logoColor=C8F5E1)
 
 </div>
 
 ---
 
-## About
+<div align="center">
+  <h2>⌁ Whoami</h2>
+</div>
 
-I like to understand how technology works and where it breaks. My current focus is the security of authentication libraries in the Node.js ecosystem (JWT, OAuth2, Passport): I build isolated labs, reproduce issues, and report them to maintainers and vendors through coordinated disclosure. Labs are published once a fix is out.
+<div align="center">
 
-Outside of software, I spend my time on networks and radio: Wi-Fi, Bluetooth/BLE, IoT devices and mobile networks.
+**Joseph Páez** — security researcher and technology tinkerer from Ecuador.
+I build isolated labs, reproduce issues in authentication libraries for Node.js (JWT, OAuth2, Passport),
+and report them to maintainers and vendors through coordinated disclosure. Labs go public once a fix is out.
+Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobile networks.
 
-## Security research
+</div>
+
+---
+
+<div align="center">
+  <h2>⌁ Signal Scan</h2>
+</div>
+
+```text
+   ⌁ ──────────────────────────────────────────── ⌁
+                 LISTENING  ON  ALL  BANDS
+   ▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▇█▇▅▃▂▁▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▆▇▆▅▃
+
+        [ JWT ] ──── [ OAuth2 ] ──── [ Passport ]
+        [ Wi-Fi ] ── [ BLE ] ─────── [ ESP32 ]
+        [ 3G / 4G / 5G ] ─────────── [ MikroTik ]
+
+   ▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▇█▇▅▃▂▁▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▆▇▆▅▃
+                 LAB  ONLY  ·  AUTHORIZED
+   ⌁ ──────────────────────────────────────────── ⌁
+```
+
+<div align="center">
+
+| Band | On my radar |
+| :---: | :---: |
+| Auth & AppSec | ![JWT](https://img.shields.io/badge/JWT-04110D?style=flat-square&logo=jsonwebtokens&logoColor=3DDC97) ![OAuth2](https://img.shields.io/badge/OAuth2-0B2A22?style=flat-square&logo=auth0&logoColor=3DDC97) ![Node.js](https://img.shields.io/badge/Node.js-134E3F?style=flat-square&logo=nodedotjs&logoColor=C8F5E1) |
+| Offensive tooling | ![Metasploit](https://img.shields.io/badge/Metasploit-04110D?style=flat-square&logo=metasploit&logoColor=3DDC97) ![Nmap](https://img.shields.io/badge/Nmap-0B2A22?style=flat-square&logo=gnubash&logoColor=3DDC97) ![Wireshark](https://img.shields.io/badge/Wireshark-134E3F?style=flat-square&logo=wireshark&logoColor=C8F5E1) |
+| Wireless | ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-04110D?style=flat-square&logo=wifi&logoColor=3DDC97) ![Bluetooth](https://img.shields.io/badge/Bluetooth%20%2F%20BLE-0B2A22?style=flat-square&logo=bluetooth&logoColor=3DDC97) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-134E3F?style=flat-square&logo=gnometerminal&logoColor=C8F5E1) |
+| Networking & telecom | ![MikroTik](https://img.shields.io/badge/MikroTik-04110D?style=flat-square&logo=mikrotik&logoColor=3DDC97) ![Cisco](https://img.shields.io/badge/Cisco-0B2A22?style=flat-square&logo=cisco&logoColor=3DDC97) ![Mobile](https://img.shields.io/badge/3G%20%2F%204G%20%2F%205G-134E3F?style=flat-square&logo=5g&logoColor=C8F5E1) |
+| Detection | ![Snort](https://img.shields.io/badge/Snort-04110D?style=flat-square&logo=snort&logoColor=3DDC97) ![Suricata](https://img.shields.io/badge/Suricata-0B2A22?style=flat-square) ![Zeek](https://img.shields.io/badge/Zeek-134E3F?style=flat-square) |
+| IoT | ![ESP32](https://img.shields.io/badge/ESP32-04110D?style=flat-square&logo=espressif&logoColor=3DDC97) ![MicroPython](https://img.shields.io/badge/MicroPython-0B2A22?style=flat-square&logo=micropython&logoColor=3DDC97) ![Linux](https://img.shields.io/badge/Linux-134E3F?style=flat-square&logo=linux&logoColor=C8F5E1) |
+
+</div>
+
+---
+
+<div align="center">
+  <h2>⌁ Security Research</h2>
+</div>
 
 | Work | What it is |
-|---|---|
+| --- | --- |
 | [**passport-jwt-265**](https://github.com/area51ec/passport-jwt-265) | Lab for passport-jwt#265: `issuer`, `audience` and `algorithms` silently dropped from `jsonWebTokenOptions` |
 | [**DefinitelyTyped#75902**](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75902) | Typings for `@types/passport-jwt` that reject that misconfiguration at compile time |
 | **Coordinated disclosure** | Several reports in progress with maintainers and vendors, published after the fix |
+| **Detection engineering** | Snort, Suricata and Zeek rules, plus incident response playbooks for IT/OT environments |
 
-Also: JWT and OAuth2 library audits for Node.js · detection rules (Snort, Suricata, Zeek) and incident response for IT/OT environments.
+---
 
-## Telecom & wireless
+<div align="center">
+  <h2>⌁ Community</h2>
+</div>
 
-| Area | Interest |
-|---|---|
-| Networking | Routing and switching with MikroTik and Cisco |
-| Wireless | Wi-Fi, Bluetooth / BLE |
-| IoT | ESP32, MicroPython, embedded devices |
-| Mobile | 3G, 4G, 5G and what comes with 6G |
+- **Founder of the Area51 community** for security and technology: in-person talks and, during the pandemic, webinars with security experts from Colombia, Chile, Bolivia, Ecuador, Spain, Argentina, Mexico, Peru, Costa Rica and England
+- **Collaborator at The Hacking Day**, Ecuador chapter
+- **Collaborator at Campus Party**
+- Official distributor of **0xWord** security books in Ecuador
 
-## Community
+---
 
-- **Founder of the Area51 community** for security and technology: in-person talks and, during the pandemic, webinars with security experts from Colombia, Chile, Bolivia, Ecuador, Spain, Argentina, Mexico, Peru, Costa Rica and England.
-- **Collaborator at The Hacking Day**, Ecuador chapter.
-- **Collaborator at Campus Party.**
-- Official distributor of **0xWord** security books in Ecuador.
+<div align="center">
+  <h2>⌁ Training</h2>
+</div>
 
-## Projects in progress
+<div align="center">
 
-- **Voice assistant for hotels**: ESP32 wake-word client with Whisper → Rasa → Coqui TTS, plus door and motion sensors.
-- **Smart traffic lights**: lights that adapt to traffic, weather and emergency routes.
-- **Electronic invoicing**: direct integration with Ecuador's tax authority (SRI).
+![MTCNA](https://img.shields.io/badge/MikroTik-MTCNA%20(2013)-0B2A22?style=for-the-badge&logo=mikrotik&logoColor=3DDC97)
+![MTCTCE](https://img.shields.io/badge/MikroTik-MTCTCE%20(2013)-134E3F?style=for-the-badge&logo=mikrotik&logoColor=C8F5E1)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Lead%20Auditor%20training-1F7A62?style=for-the-badge&logoColor=C8F5E1)
 
-## Training & certifications
+</div>
 
-| Area | |
-|---|---|
-| MikroTik | MTCNA · MTCTCE (2013) |
-| Security management | ISO/IEC 27001 Lead Auditor training (Cotecna) |
+---
 
-## Tools & stack
+<div align="center">
+  <h2>⌁ Building</h2>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square">
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
-<img src="https://img.shields.io/badge/Aircrack--ng-333333?style=flat-square">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white">
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
-</p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
+<div align="center">
 
-<sub>All testing is done on my own equipment and networks, or with authorization.</sub>
+| Project | Signal |
+| :---: | :---: |
+| Voice assistant for hotels | ESP32 wake word → Whisper → Rasa → Coqui TTS, with door and motion sensors |
+| Smart traffic lights | Adapt to traffic, weather and emergency routes |
+| Electronic invoicing | Direct integration with Ecuador's tax authority (SRI) |
+
+</div>
+
+---
+
+<div align="center">
+  <h2>⌁ Stack</h2>
+</div>
+
+<div align="center">
+
+[![Stack](https://skillicons.dev/icons?i=nodejs,ts,php,laravel,vue,py,docker,postgres,linux,bash,git&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
 <div align="center">
 
-📫 **info@area51.ec**
+<sub>All testing is done on my own equipment and networks, or with explicit authorization.</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1F7A62,50:134E3F,100:04110D)
 
 </div>
