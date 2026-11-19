@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:04110D,40:0B2A22,75:134E3F,100:1F7A62&text=Area51%20%C2%B7%20Security%20Research&fontColor=C8F5E1&fontSize=38&fontAlignY=42&desc=Auth%20Libraries%20%E2%80%A2%20Telecom%20%26%20Wireless%20%E2%80%A2%20IoT&descAlignY=66&animation=fadeIn)
+<img src="assets/header.svg" alt="Area51 · Security Research" width="100%">
 
 ![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=2000&color=3DDC97&center=true&vCenter=true&width=640&height=40&lines=Breaking+auth+libraries+in+isolated+labs;Coordinated+disclosure+with+maintainers;Wi-Fi+%E2%80%A2+BLE+%E2%80%A2+IoT+%E2%80%A2+3G%2F4G%2F5G;Curious+about+how+things+fail)
 
@@ -132,6 +132,6 @@ Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobi
 
 <sub>All testing is done on my own equipment and networks, or with explicit authorization.</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1F7A62,50:134E3F,100:04110D)
+<img src="assets/footer.svg" alt="" width="100%">
 
 </div>
