@@ -1,44 +1,89 @@
-<h1 align="center">Joseph Páez · Area51</h1>
-<p align="center">
-  Investigador de seguridad y curioso de la tecnología · Guayaquil, Ecuador 🇪🇨<br>
-  Seguridad en software · Telecomunicaciones e inalámbrico · IoT · Redes
-</p>
+<div align="center">
+
+# Joseph Páez · Area51
+
+**Security researcher · Telecom & wireless · IoT · Networking**
+
+Guayaquil, Ecuador 🇪🇨
+
+![Focus](https://img.shields.io/badge/focus-authentication%20libraries-0d1117?style=flat-square)
+![Disclosure](https://img.shields.io/badge/disclosure-coordinated-0d1117?style=flat-square)
+![Labs](https://img.shields.io/badge/testing-isolated%20labs%20only-0d1117?style=flat-square)
+
+</div>
 
 ---
 
-### 🔐 Investigación de seguridad
-| Trabajo | Descripción |
+## About
+
+I like to understand how technology works and where it breaks. My current focus is the security of authentication libraries in the Node.js ecosystem (JWT, OAuth2, Passport): I build isolated labs, reproduce issues, and report them to maintainers and vendors through coordinated disclosure. Labs are published once a fix is out.
+
+Outside of software, I spend my time on networks and radio: Wi-Fi, Bluetooth/BLE, IoT devices and mobile networks.
+
+## Security research
+
+| Work | What it is |
 |---|---|
-| [passport-jwt-265](https://github.com/area51ec/passport-jwt-265) | Laboratorio de passport-jwt#265: issuer, audience y algorithms descartados en silencio |
-| [DefinitelyTyped#75902](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75902) | Tipos que rechazan esa mala configuración al compilar |
-| Divulgación coordinada | Varios reportes en curso con mantenedores y fabricantes; se publican tras el parche |
+| [**passport-jwt-265**](https://github.com/area51ec/passport-jwt-265) | Lab for passport-jwt#265: `issuer`, `audience` and `algorithms` silently dropped from `jsonWebTokenOptions` |
+| [**DefinitelyTyped#75902**](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75902) | Typings for `@types/passport-jwt` that reject that misconfiguration at compile time |
+| **Coordinated disclosure** | Several reports in progress with maintainers and vendors, published after the fix |
 
-Auditoría de librerías JWT y OAuth2 para Node.js · Reglas de detección (Snort, Suricata, Zeek) y respuesta a incidentes IT/OT
+Also: JWT and OAuth2 library audits for Node.js · detection rules (Snort, Suricata, Zeek) and incident response for IT/OT environments.
 
-### 📡 Telecomunicaciones e inalámbrico
-Networking (MikroTik, Cisco) · Wi-Fi · Bluetooth/BLE · IoT (ESP32, MicroPython) · Redes móviles 3G/4G/5G y 6G
+## Telecom & wireless
 
-### 🎤 Comunidad
-- **Fundador de la comunidad Area51** de seguridad y tecnología: charlas presenciales y, durante la pandemia, webinars con expertos de seguridad de Colombia, Chile, Bolivia, Ecuador, España, Argentina, México, Perú, Costa Rica e Inglaterra.
-- **Colaborador de The Hacking Day**, capítulo Ecuador.
-- **Colaborador de Campus Party.**
-- Distribuidor oficial de los libros de **0xWord** en Ecuador.
+| Area | Interest |
+|---|---|
+| Networking | Routing and switching with MikroTik and Cisco |
+| Wireless | Wi-Fi, Bluetooth / BLE |
+| IoT | ESP32, MicroPython, embedded devices |
+| Mobile | 3G, 4G, 5G and what comes with 6G |
 
-### 🛠️ Proyectos en desarrollo
-- **Asistente de voz para hoteles**: ESP32 + Whisper → Rasa → Coqui TTS, con sensores
-- **Semáforos inteligentes**: adaptativos al tráfico, al clima y a las rutas de emergencia
-- **Facturación electrónica**: integración directa con el SRI de Ecuador
+## Community
 
-### 🎓 Formación y certificaciones
-| | |
+- **Founder of the Area51 community** for security and technology: in-person talks and, during the pandemic, webinars with security experts from Colombia, Chile, Bolivia, Ecuador, Spain, Argentina, Mexico, Peru, Costa Rica and England.
+- **Collaborator at The Hacking Day**, Ecuador chapter.
+- **Collaborator at Campus Party.**
+- Official distributor of **0xWord** security books in Ecuador.
+
+## Projects in progress
+
+- **Voice assistant for hotels**: ESP32 wake-word client with Whisper → Rasa → Coqui TTS, plus door and motion sensors.
+- **Smart traffic lights**: lights that adapt to traffic, weather and emergency routes.
+- **Electronic invoicing**: direct integration with Ecuador's tax authority (SRI).
+
+## Training & certifications
+
+| Area | |
 |---|---|
 | MikroTik | MTCNA · MTCTCE (2013) |
-| Gestión de seguridad | ISO/IEC 27001 Lead Auditor — formación con Cotecna |
+| Security management | ISO/IEC 27001 Lead Auditor training (Cotecna) |
 
-### 🧰 Herramientas y tecnologías
-![](https://img.shields.io/badge/-Metasploit-2596CD) ![](https://img.shields.io/badge/-Nmap-4682B4) ![](https://img.shields.io/badge/-Aircrack--ng-333) ![](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![](https://img.shields.io/badge/-MikroTik-293239?logo=mikrotik) ![](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) ![](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![](https://img.shields.io/badge/-MicroPython-2B2728?logo=micropython) ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+## Tools & stack
 
-<sub>Todas las pruebas, en equipos y redes propias o con autorización.</sub>
+<p>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
+<img src="https://img.shields.io/badge/Aircrack--ng-333333?style=flat-square">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
+
+<sub>All testing is done on my own equipment and networks, or with authorization.</sub>
 
 ---
-<p align="center">📫 info@area51.ec</p>
+
+<div align="center">
+
+📫 **info@area51.ec**
+
+</div>
