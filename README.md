@@ -33,19 +33,9 @@ Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobi
   <h2>⌁ Signal Scan</h2>
 </div>
 
-```text
-   ⌁ ──────────────────────────────────────────── ⌁
-                 LISTENING  ON  ALL  BANDS
-   ▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▇█▇▅▃▂▁▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▆▇▆▅▃
-
-        [ JWT ] ──── [ OAuth2 ] ──── [ Passport ]
-        [ Wi-Fi ] ── [ BLE ] ─────── [ ESP32 ]
-        [ 3G / 4G / 5G ] ─────────── [ MikroTik ]
-
-   ▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▇█▇▅▃▂▁▁▂▃▅▆▇█▇▆▅▃▂▁▁▂▃▅▆▇▆▅▃
-                 LAB  ONLY  ·  AUTHORIZED
-   ⌁ ──────────────────────────────────────────── ⌁
-```
+<div align="center">
+<img src="assets/signal.svg" alt="Signal scan: JWT, OAuth2, Passport, Wi-Fi, BLE, ESP32, 3G/4G/5G, MikroTik" width="760">
+</div>
 
 <div align="center">
 
