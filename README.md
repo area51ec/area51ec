@@ -23,7 +23,8 @@
 **Joseph Páez** — security researcher and technology tinkerer from Ecuador.
 I build isolated labs, reproduce issues in authentication libraries for Node.js (JWT, OAuth2, Passport),
 and report them to maintainers and vendors through coordinated disclosure. Labs go public once a fix is out.
-Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobile networks.
+Trained in telecommunications engineering, I explore networks and radio (Wi-Fi, Bluetooth/BLE, IoT, mobile networks)
+and how they come together in smart cities.
 
 </div>
 
@@ -47,6 +48,7 @@ Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobi
 | Networking & telecom | ![MikroTik](https://img.shields.io/badge/MikroTik-04110D?style=flat-square&logo=mikrotik&logoColor=3DDC97) ![Cisco](https://img.shields.io/badge/Cisco-0B2A22?style=flat-square&logo=cisco&logoColor=3DDC97) ![Mobile](https://img.shields.io/badge/3G%20%2F%204G%20%2F%205G-134E3F?style=flat-square&logo=5g&logoColor=C8F5E1) |
 | Detection | ![Snort](https://img.shields.io/badge/Snort-04110D?style=flat-square&logo=snort&logoColor=3DDC97) ![Suricata](https://img.shields.io/badge/Suricata-0B2A22?style=flat-square) ![Zeek](https://img.shields.io/badge/Zeek-134E3F?style=flat-square) |
 | IoT | ![ESP32](https://img.shields.io/badge/ESP32-04110D?style=flat-square&logo=espressif&logoColor=3DDC97) ![MicroPython](https://img.shields.io/badge/MicroPython-0B2A22?style=flat-square&logo=micropython&logoColor=3DDC97) ![Linux](https://img.shields.io/badge/Linux-134E3F?style=flat-square&logo=linux&logoColor=C8F5E1) |
+| Smart cities | ![Smart City](https://img.shields.io/badge/Smart%20City-04110D?style=flat-square&logo=openstreetmap&logoColor=3DDC97) ![Traffic](https://img.shields.io/badge/Adaptive%20Traffic-0B2A22?style=flat-square&logo=googlemaps&logoColor=3DDC97) ![Sensors](https://img.shields.io/badge/Sensor%20Networks-134E3F?style=flat-square&logo=espressif&logoColor=C8F5E1) |
 
 </div>
 
@@ -82,6 +84,7 @@ Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobi
 
 <div align="center">
 
+![Telecom](https://img.shields.io/badge/Engineering-Telecommunications-04110D?style=for-the-badge&logo=wifi&logoColor=3DDC97)
 ![MTCNA](https://img.shields.io/badge/MikroTik-MTCNA%20(2013)-0B2A22?style=for-the-badge&logo=mikrotik&logoColor=3DDC97)
 ![MTCTCE](https://img.shields.io/badge/MikroTik-MTCTCE%20(2013)-134E3F?style=for-the-badge&logo=mikrotik&logoColor=C8F5E1)
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Lead%20Auditor%20training-1F7A62?style=for-the-badge&logoColor=C8F5E1)
@@ -99,7 +102,7 @@ Away from code, I explore networks and radio: Wi-Fi, Bluetooth/BLE, IoT and mobi
 | Project | Signal |
 | :---: | :---: |
 | Voice assistant for hotels | ESP32 wake word → Whisper → Rasa → Coqui TTS, with door and motion sensors |
-| Smart traffic lights | Adapt to traffic, weather and emergency routes |
+| Smart traffic lights (smart city) | Adapt to traffic, weather and emergency routes |
 | Electronic invoicing | Direct integration with Ecuador's tax authority (SRI) |
 
 </div>
