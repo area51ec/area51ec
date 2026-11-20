@@ -105,6 +105,7 @@ and how they come together in smart cities.
 | Voice assistant for hotels | Embedded voice device with sensors |
 | Smart traffic lights (smart city) | Adapt to traffic, weather and emergency routes |
 | Electronic invoicing | Direct integration with Ecuador's tax authority (SRI) |
+| Events platform | Platform to organize and manage events |
 
 </div>
 
