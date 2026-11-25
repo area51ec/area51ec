@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner-mirai-skynet.svg" alt="De Mirai a Skynet" width="100%">
+<img src="assets/header.svg" alt="Area51 · Security Research" width="100%">
 
 ![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=2000&color=3DDC97&center=true&vCenter=true&width=640&height=40&lines=Breaking+auth+libraries+in+isolated+labs;Coordinated+disclosure+with+maintainers;Wi-Fi+%E2%80%A2+BLE+%E2%80%A2+IoT+%E2%80%A2+3G%2F4G%2F5G;Curious+about+how+things+fail)
 
