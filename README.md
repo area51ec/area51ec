@@ -61,6 +61,7 @@ and how they come together in smart cities.
 
 | Work | What it is |
 | --- | --- |
+| [**GHSA-c26c-q3fh-3xf7**](https://github.com/hapijs/jwt/security/advisories/GHSA-c26c-q3fh-3xf7) | `@hapi/jwt` accepted forged tokens when the `keys` value yielded an empty key. Fixed in 3.2.5 (High, CVSS 7.4) |
 | [**passport-jwt-265**](https://github.com/area51ec/passport-jwt-265) | Lab for passport-jwt#265: `issuer`, `audience` and `algorithms` silently dropped from `jsonWebTokenOptions` |
 | [**DefinitelyTyped#75902**](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75902) | Typings for `@types/passport-jwt` that reject that misconfiguration at compile time |
 | **Coordinated disclosure** | Several reports in progress with maintainers and vendors, published after the fix |
